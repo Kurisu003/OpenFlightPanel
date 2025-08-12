@@ -1,6 +1,7 @@
 # Open FLight panel
 
-An open source library for interfacing with WinWings PFPs
+A library for interfacing with WinWings PFPs
+
 Copyright (c) 2025 Kurisu003
 
 This software is licensed under the PolyForm Noncommercial License 1.0.0.
@@ -9,8 +10,9 @@ provided that you give appropriate credit to the original author.
 For full license text, see: https://polyformproject.org/licenses/noncommercial/1.0.0/
 
 # The basics
+I'm being the change I want to see in the world, so if you're struggeling to get it running, have any questions or want to collaborate, my Discord is: kurisu003
 
-## who helped
+## Who helped
 
 A huge shoutout goes to https://github.com/alha847/winwing_mcdu and https://github.com/vradarserver/cduhub/tree/main/library/mcdu-dotnet/WinWing/Mcdu for indirectly helping by me looking at their GitHub
 
