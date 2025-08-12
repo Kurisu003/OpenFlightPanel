@@ -109,7 +109,6 @@ class DispWriter:
         bg_lookup = {
             "black": 0, "green": 1, "gray": 2, "orange": 3, "purple": 4,
         }
-        print(text)
         text = self.fix_text_length(text);
         payload = []
 
